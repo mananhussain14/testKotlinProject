@@ -58,6 +58,7 @@ class MainActivity : AppCompatActivity() {
                 .padding(10.dp).border(5.dp,Color.Cyan),
             horizontalAlignment = Alignment.CenterHorizontally,
             verticalArrangement = Arrangement.Center
+            //test
 
         ) {
             Text(text = "this is text", color = Color(0xFFCE1414))
